@@ -8,5 +8,5 @@ The project concludes that the proposed tuned hybrid model achieved high perform
 machine learning for detecting phishing email and emphasizes the value of mixing different 
 models for enhanced performance.
 
-# Steps followed:
+# Extra info :
 Attached a research paper about this whole project as a explaination and reference.
